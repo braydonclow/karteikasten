@@ -1,5 +1,5 @@
 // Keeps the app working offline. Bump VERSION whenever you upload changed files.
-const VERSION = "karteikasten-v1";
+const VERSION = "karteikasten-v3";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icons/apple-touch-icon.png", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", e => {
